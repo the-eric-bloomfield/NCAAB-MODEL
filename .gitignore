@@ -2,3 +2,13 @@ ncaa_tournament_modeling_df.csv
 ncaa_tournament_results_10_24.csv
 ncaa_season_stats_10_24.csv
 seed_diff_table.csv
+kenpom_data.csv
+.vscode/
+.env
+.venv/
+.ipynb_checkpoints/
+.ipynb_checkpoints/
+.ipynb_checkpoints/
+.ipynb_checkpoints/
+kenpom/
+data/
